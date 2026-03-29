@@ -167,7 +167,7 @@ Khuyến nghị khi sử dụng:
 
 ---
 
-## 9) Roadmap đề xuất
+## 9) Roadmap 
 
 - [ ] Ổn định retrieval core và thuật toán temporal retrieval
 - [ ] Chuẩn hóa tên file/module (server, retrieval, ...)
@@ -180,16 +180,11 @@ Khuyến nghị khi sử dụng:
 
 ## 10) Ghi chú
 
-- Dự án có nhiều nhánh thực nghiệm (retrieval/caption/object detection/OCR).  
-- Vui lòng xem từng script cụ thể trong `AIC2025/` và `GoogleVideo/` để hiểu phạm vi của mỗi nhánh.
+- Dự án có nhiều nhánh thực nghiệm (retrieval/caption/object detection/OCR,....).  
+
 
 ---
 
 ## 11) Liên hệ / đóng góp
 
-Nếu bạn muốn mình hỗ trợ thêm:
-
-- Chuẩn hóa README theo format open-source (badges, changelog, contribution guide)
-- Viết thêm `docs/` cho API + architecture diagram
-- Tạo checklist phát hành phiên bản `v0.1`
 
